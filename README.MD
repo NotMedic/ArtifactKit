@@ -18,3 +18,5 @@ You should see `========== Build: 20 succeeded, 0 failed, 0 up-to-date, 0 skippe
 You'll find the compiled output in the "output" directory.
 
 Copy your "artifact.cna" into that directory
+
+If things like this interest you, I'm hiring senior-level Red Teamers. HMU.
