@@ -11,8 +11,10 @@ You'll need to modify patch.c to read `(char *)buffer` instead of `buffer`.  VS 
 
 
 In Visual Studio, go to __Build -> Batch Build and click "Select All."__ There should be 20 in total.
+
+You should see `========== Build: 20 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========`
+
+
 You'll find the compiled output in the "output" directory.
+
 Copy your "artifact.cna" into that directory
- 
-
-
