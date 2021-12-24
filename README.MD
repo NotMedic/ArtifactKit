@@ -1,4 +1,8 @@
-# To Build:
+# There is no licensed Cobalt Strike property within this repository. 
+# This is only the necessary Visual Studio configuration files
+# There is no support provided. Issues will be ignored, Pull requests will be reviewed and merged. 
+
+## To Build:
 
 Copy the contents of src-common and src-main from your authorized copy of Cobalt Strike into the src-common and src-main directories. 
 
@@ -11,4 +15,4 @@ You'll find the compiled output in the "output" directory.
 Copy your "artifact.cna" into that directory
  
 
-There is no support provided. Issues will be ignored, Pull requests will be reviewed and merged. 
+
