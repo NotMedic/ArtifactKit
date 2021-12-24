@@ -6,7 +6,7 @@
 
 Copy the contents of src-common and src-main from your authorized copy of Cobalt Strike into the src-common and src-main directories. 
 
-You'll need to modify patch.c to read `(char *)buffer` instead of `buffer`.  VS will tell you which lines are broken when you try to comile. :)
+You'll need to modify patch.c to read `(char *)buffer` instead of `buffer`.  VS will tell you which lines are broken when you try to compile. :)
 
 
 
